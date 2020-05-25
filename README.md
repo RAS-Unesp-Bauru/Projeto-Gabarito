@@ -27,7 +27,7 @@ A instalação do programa corretor de gabaritos é bem simples, basta seguir os
 
 Executável:
 ```
-1º Baixe a pasta que contem os arquivos em https://mega.nz/#F!aWZA0CKK!117qYt641MSt_CWW-J8aFA
+1º Baixe a pasta que contem os arquivos em https://drive.google.com/drive/folders/1JA4_WCEZ2G2a6QIN1B_TAz6oc36MaE9N?usp=sharing
 
 2º Abra a pasta com os arquivos e execute o programa "main.exe".
 
